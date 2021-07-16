@@ -1,0 +1,54 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+
+    
+
+    background-color: #046D8B #f7f972 #1693A5 #003E5F #004384 #96CFEA #2FB8AC #046D8B,#309292,#2FB8AC,#93A42A,#ECBE13,#046D8B,#309292,#2FB8AC;
+
+}
+
+body {
+
+    background-image: url(/front-end/img/realblue.jpg);
+
+    
+    /* background-color: #003E5F ; */
+}
+
+.inicio {
+    color: aliceblue;
+}
+
+#imagenfondo {
+    
+    color: #f7f972;
+    
+    
+}
+
+h1 {
+
+    color: #ECBE13;
+}
+
+h2 {
+
+    color: #ECBE13;
+
+}
+
+.fraseOferta {
+    color: #f7f972bb;
+}
+
+p {
+    font-size: large;
+    color: aliceblue;
+}
+
+footer {
+    color: #ECBE13;
+
+}
